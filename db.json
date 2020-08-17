@@ -1,8 +1,7 @@
 {
-  "get": [
+  "version": [
     {
-      "id": 1,
-      "title": "hello"
+      "ver": "1.0.0"
     }
   ],
   "profile": {
